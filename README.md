@@ -62,7 +62,7 @@ This command generates an index.js file with the compiled JavaScript code.
 
 This will output:
 
-    `Hello, TypeScript!`
+`Hello, TypeScript!`
 
 ## Contributing
 
